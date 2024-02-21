@@ -1,2 +1,2 @@
-# Test-Projects
+# Pre-Interview Exercise
 Python test projects
